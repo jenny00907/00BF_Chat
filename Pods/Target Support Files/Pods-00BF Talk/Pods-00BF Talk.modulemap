@@ -1,0 +1,6 @@
+module Pods_00BF_Talk {
+  umbrella header "Pods-00BF Talk-umbrella.h"
+
+  export *
+  module * { export * }
+}
